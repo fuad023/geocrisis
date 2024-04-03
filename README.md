@@ -1,2 +1,2 @@
-# geocrisis
+# GeoCrisis
 engine demo architecture project
