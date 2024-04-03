@@ -1,5 +1,4 @@
 # GeoCrisis
-engine demo architecture project
 The whole point of this project is to mimic the game Geometry Wars.
 
 The project "GeoCrisis" has the following features:
