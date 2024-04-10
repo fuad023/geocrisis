@@ -1,0 +1,9 @@
+Window 1280 720 60 1
+Font fonts/Megaman.ttf 16 255 255 255
+         SR   CR    S   FR   FG   FB   OR   OG   OB   OT    V
+Player   16   16    5    5    5    5  255    0    0    3    8
+                 SMIN SMAX   OR   OG   OB   OT VMIN VMAX    L   SI       
+Enemy    14   14    2    6  255  255  255  1.5    3    8   32   32
+                                                                 L  SI
+Bullet    4    4   20  255  255  255  255  255  255    2   20   40   4
+Joystick  0

@@ -1,0 +1,13 @@
+Features of this architecture:
+ - Create game objects as Entity instances
+ - Add Component data to Entities
+ - Implement gameplay via Systems.
+   Also, handle user input.
+ - Pause gameplay/exit game.
+ - Can init/load configutarion from file
+
+Limitaition of this architecture:
+ - Can only diplay one 'scene'.
+ - Can NOT load texture/sounds assets
+ - Can NOT display textured animations
+ - Does NOT have any menu/interface 
