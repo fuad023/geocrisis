@@ -1,4 +1,6 @@
 # GeoCrisis
+APOLOGISE: Here I am writing my very first markdown language, so you are requested to view it in code perspective for intended formatting.  
+
 The whole point of this project is to mimic the game Geometry Wars.  
   
 The project "GeoCrisis" has the following features:  
@@ -10,12 +12,12 @@ Player:
   <b><i>Up: W key, Left: A key, Down: S key, Right: D key  
   Up/Down: Gamepad left stick(Y-axis), Left/Right: Gamepad left stick(X-axis)</i></b>
 - The player is confined to move only within the bounds of the window
-- The player shoots a bullet towards the mouse pointer when the left mouse button is clicked, or towards to point right stick of the gamepad is directed.
+- The player shoots a bullet towards the mouse pointer when the <b><i>left mouse button is click</i></b>ed, or towards to point <b><i>right stick of the gamepad</i></b> is directed.
 - Bullets shot by the player has a certain lifespan in which when is runs out, the bullet fades away.
 - The speed, size and lifespan of the bullets are read from the config file.
 
 Special Ability:
-- When the <b><i>right mouse button is click</i></b>ed, a special attack can be performed by the played which would destroy half of the enemies. But the penalty of it is that you will not secure any points from those destroyed enemies.
+- When the <b><i>right mouse button is click</i></b>ed <b><i>(or right bumper in controller)</i></b>, a special attack can be performed by the played which would destroy half of the enemies. But the penalty of it is that you will not secure any points from those destroyed enemies.
 - There is a cooldown timer at the bottom-left of the screen to showcase when this attack can be performed.
 
 Enemy(s):
