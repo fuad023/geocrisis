@@ -1,6 +1,7 @@
 # GeoCrisis
 The whole point of this project is to mimic the game Geometry Wars.
 
+<p>
 The project "GeoCrisis" has the following features:
 
 Player:
@@ -83,3 +84,5 @@ Bullet SR CR S FR FG FB OR OG OB OT V L SI
 Gamepad O
 - Operational         O             bool: 1 to operate in gamepad mode, 0 to to operate in keyboard mode.
                                           WARNING: DO NOT USE KEYBOARD WITH GAMEPAD MODE TURNED ON.
+
+  </p>
