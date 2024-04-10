@@ -1,5 +1,5 @@
 # GeoCrisis
-<h6>APOLOGISE: Here I am writing my very first markdown language, so you are requested to view it in code perspective for intended formatting.</h6>  
+<h6>APOLOGISE: Here I am writing my very first markdown language, so you are requested to view it in raw perspective for intended formatting.</h6>  
 
 The whole point of this project is to mimic the game Geometry Wars.  
   
